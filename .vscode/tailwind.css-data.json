@@ -1,0 +1,49 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@tailwind",
+      "description": "Injects Tailwind's base, components, utilities, or variants styles."
+    },
+    {
+      "name": "@layer",
+      "description": "Adds custom styles to a Tailwind cascade layer."
+    },
+    {
+      "name": "@apply",
+      "description": "Inlines existing Tailwind utility classes into custom CSS."
+    },
+    {
+      "name": "@config",
+      "description": "Specifies the Tailwind config file for this stylesheet."
+    },
+    {
+      "name": "@screen",
+      "description": "Expands a Tailwind screen breakpoint into a media query."
+    },
+    {
+      "name": "@theme",
+      "description": "Defines Tailwind theme variables in CSS."
+    },
+    {
+      "name": "@utility",
+      "description": "Defines a custom Tailwind utility in CSS."
+    },
+    {
+      "name": "@variant",
+      "description": "Applies a Tailwind variant to nested CSS."
+    },
+    {
+      "name": "@custom-variant",
+      "description": "Defines a custom Tailwind variant."
+    },
+    {
+      "name": "@source",
+      "description": "Adds source files for Tailwind class detection."
+    },
+    {
+      "name": "@plugin",
+      "description": "Loads a Tailwind plugin from CSS."
+    }
+  ]
+}
